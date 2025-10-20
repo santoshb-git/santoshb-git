@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.7">
   <diagram name="Page-1" id="uM2Wd0DcPulCl_nSy0dz">
-    <mxGraphModel dx="915" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="980" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
         <mxCell id="HFiZ4JCNKRLf1A1lZL1j-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Ruya&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;BaaS&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;API Gateway&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="129" width="120" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="HFiZ4JCNKRLf1A1lZL1j-4" value="&lt;b&gt;UAE PASS&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(API Gateway&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Digital Vault)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="HFiZ4JCNKRLf1A1lZL1j-4" value="&lt;b&gt;UAEPASS&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(API Gateway&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Digital Vault)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="129" width="120" height="260" as="geometry" />
         </mxCell>
         <mxCell id="HFiZ4JCNKRLf1A1lZL1j-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.66;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HFiZ4JCNKRLf1A1lZL1j-19" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="120" y="280" width="90" height="83" as="geometry" />
+          <mxGeometry x="85" y="280" width="90" height="83" as="geometry" />
         </mxCell>
         <mxCell id="NQkfIjF1GnmUihgC2EWJ-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
